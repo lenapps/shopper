@@ -14,6 +14,8 @@ With shopper, users will be able to:
 * Assign shopper to a list
 * Re-assign the list
 * Check items off the list
+* Add stores
+* Assign/Remove list to/from a store
 
 # Mobile app component
 * Enable location sharing
