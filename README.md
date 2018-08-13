@@ -16,10 +16,13 @@ With shopper, users will be able to:
 * Check items off the list
 * Add stores
 * Assign/Remove list to/from a store
+* Enter the amount spent on this shopping
+* See reports and stats about shopping habits
 
-# Mobile app component
+# Mobile app component - All of the above AND
 * Enable location sharing
 * Auto notify circle when user is in a known store location
 * Set notification level (auto, with confirmation, or none)
 * Receive notifications if a user within the circle is in a store
 * Swipe items off the list
+* Scan the receipt
